@@ -37,7 +37,7 @@ const eras: Era[] = [
     years: "1021—1826",
     title: "让光留下痕迹",
     thesis: "先理解光如何成像，再寻找一种能把它固定下来的材料。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "1021",
@@ -76,7 +76,7 @@ const eras: Era[] = [
     years: "1839—1871",
     title: "化学把时间缩短",
     thesis: "银盐、负片与干版，让曝光从分钟走向秒，也让照片可以复制。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "1839",
@@ -129,7 +129,7 @@ const eras: Era[] = [
     years: "1888—1948",
     title: "摄影成为大众产品",
     thesis: "卷片、标准画幅与即时显影，持续降低拍照的技能门槛。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "1888",
@@ -182,7 +182,7 @@ const eras: Era[] = [
     years: "1959—1969",
     title: "相机成为精密系统",
     thesis: "模块化镜头、测光与自动控制，把专业能力逐步写进机身。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "1959",
@@ -221,7 +221,7 @@ const eras: Era[] = [
     years: "1969—1999",
     title: "光变成数据",
     thesis: "传感器、处理器与存储器取代胶片，图像进入可计算的世界。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "1969",
@@ -274,7 +274,7 @@ const eras: Era[] = [
     years: "2000—现在",
     title: "相机变成软件",
     thesis: "手机、CMOS 与多帧算法，让“拍一张”变成一次实时计算。",
-    color: "#c58a3d",
+    color: "#987858",
     milestones: [
       {
         year: "2000",
