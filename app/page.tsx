@@ -48,7 +48,7 @@ const eras: Era[] = [
         summary: "小孔把外部场景投射成倒像。暗箱还不能保存图像，却确立了相机最基本的结构：封闭空间、进光孔与成像平面。",
         shift: "图像第一次可以被光自动“画”出来，但仍然转瞬即逝。",
         tech: ["小孔成像", "倒像投影", "几何光学"],
-        image: "timeline/camera-obscura.jpg",
+        image: "timeline/camera-obscura.webp",
         imageAlt: "暗箱原理版画：光线穿过小孔，在暗室内投射出外部景物的倒像",
         credit: "Photoion · Camera Obscura",
         creditUrl: "https://www.photoion.co.uk/blog/camera-obscura/",
@@ -62,7 +62,7 @@ const eras: Era[] = [
         summary: "涅普斯把犹太沥青涂在白镴板上，在暗箱中长时间曝光，制成《窗外风景》。光学影像第一次被化学材料永久固定。",
         shift: "摄影从“看见投影”跨入“保存现实”，真正成为一种媒介。",
         tech: ["感光沥青", "白镴板", "超长曝光"],
-        image: "timeline/niepce-window.jpg",
+        image: "timeline/niepce-window.webp",
         imageAlt: "涅普斯约 1826 年拍摄的《窗外风景》，画面中庭院与屋顶在长时间曝光下形成粗粝的明暗轮廓",
         credit: "Smarthistory · View from the Window at Le Gras",
         creditUrl: "https://smarthistory.org/joseph-nicephore-niepce-view-from-the-window-at-le-gras/",
@@ -87,7 +87,7 @@ const eras: Era[] = [
         summary: "银镀铜板经碘蒸气感光、汞蒸气显影，可获得前所未有的细节。法国政府公开工艺，吉鲁制造了首批商业相机。",
         shift: "肖像不再只属于能请画师的人；相机开始成为可购买的设备。",
         tech: ["银镀铜板", "汞蒸气显影", "不可复制正像"],
-        image: "timeline/daguerreotype.jpeg",
+        image: "timeline/daguerreotype.webp",
         imageAlt: "1839 年吉鲁制造的木质达盖尔银版相机，带黄铜镜头和滑动式机身",
         credit: "Deutsches Museum · Le Daguerreotype",
         creditUrl: "https://www.deutsches-museum.de/en/museum-island/exhibitions/photography-and-film",
@@ -101,7 +101,7 @@ const eras: Era[] = [
         summary: "纸负片可以反复接触印相。相比银版的唯一性，负—正体系把摄影变成了可复制、可传播的图像工业。",
         shift: "今天胶片与数字文件的“母版—副本”逻辑，在这里第一次成形。",
         tech: ["纸负片", "接触印相", "可复制"],
-        image: "timeline/calotype-camera.jpg",
+        image: "timeline/calotype-camera.webp",
         imageAlt: "塔尔博特早期卡罗式相机实物，木制滑动箱体前装有黄铜镜头",
         credit: "V&A · William Henry Fox Talbot's cameras",
         creditUrl: "https://www.vam.ac.uk/articles/fox-talbots-cameras",
@@ -115,7 +115,7 @@ const eras: Era[] = [
         summary: "明胶溴化银干版比湿版更敏感，而且可预先生产、长期保存。相机快门变得必要，手持拍摄开始可行。",
         shift: "从“现场制备化学品”变成“装好感光材料就能出发”。",
         tech: ["明胶乳剂", "玻璃干版", "快速快门"],
-        image: "timeline/dry-plate-camera.jpg",
+        image: "timeline/dry-plate-camera.webp",
         imageAlt: "十九世纪末红木干版相机与一盒 Ilford 玻璃干版实物",
         credit: "Toovey’s · Plate camera and Ilford dry plates",
         creditUrl: "https://www.tooveys.com/lots/309807/a-late-19th-century-mahogany-plate-camera-and-a-box-of-ilford-dry-plates/",
@@ -140,7 +140,7 @@ const eras: Era[] = [
         summary: "相机预装可拍 100 张的卷片；拍完后整机寄回柯达冲洗、印相和重新装片。技术、服务与品牌被打包成一个系统。",
         shift: "拍照从化学师的工作，变成普通人的日常动作；“快照文化”诞生。",
         tech: ["柔性卷片", "固定焦点", "冲印服务"],
-        image: "timeline/kodak-no1.jpg",
+        image: "timeline/kodak-no1.webp",
         imageAlt: "1888 年 Kodak No. 1 盒式相机，皮革包覆机身并配有卷片旋钮",
         credit: "Camera-Wiki · Kodak No. 1",
         creditUrl: "https://camera-wiki.org/wiki/Kodak_No._1",
@@ -154,7 +154,7 @@ const eras: Era[] = [
         summary: "巴纳克把电影用 35mm 胶片横向输送，形成 24×36mm 画幅。精密机身、小型镜头与快速卷片，使抓拍和新闻摄影成为可能。",
         shift: "摄影不再等待场景摆好；相机开始追上正在发生的世界。",
         tech: ["35mm 胶片", "焦平面快门", "可更换镜头"],
-        image: "timeline/leica-i.jpg",
+        image: "timeline/leica-i.webp",
         imageAlt: "Leica I 35mm 相机，黑色机身配可收缩的 Elmar 镜头",
         credit: "Science Museum Group · Leica I",
         creditUrl: "https://collection.sciencemuseumgroup.org.uk/objects/co8205029/leica-i-camera",
@@ -168,7 +168,7 @@ const eras: Era[] = [
         summary: "负片与正片通过滚轴压合，显影药剂在两层之间扩散。相机不只记录图像，也完成最关键的后期处理。",
         shift: "“拍摄—等待—观看”的时间差被压缩，照片第一次成为即时社交物件。",
         tech: ["扩散转印", "内置滚轴", "即时正片"],
-        image: "timeline/polaroid-model95.jpg",
+        image: "timeline/polaroid-model95.webp",
         imageAlt: "展开状态的 Polaroid Land Camera Model 95，带折叠皮腔和金属支架",
         credit: "MIT Museum / Wikimedia Commons",
         creditUrl: "https://commons.wikimedia.org/wiki/File:Polaroid_Land_Camera_Model_95_-_MIT_Museum_-_DSC03766.JPG",
@@ -193,7 +193,7 @@ const eras: Era[] = [
         summary: "可更换取景器、马达卷片与庞大镜头群，让 35mm 单反覆盖新闻、体育、科学和工业摄影。模块化成为专业相机的核心竞争力。",
         shift: "设备不再定义单一用途；摄影师围绕一个卡口扩展整套工作流。",
         tech: ["单镜头反光", "F 卡口", "模块化附件"],
-        image: "timeline/nikon-f.jpg",
+        image: "timeline/nikon-f.webp",
         imageAlt: "Nikon 博物馆展柜中的银黑色 Nikon F 单镜头反光相机",
         credit: "Nikon Museum / Visit Minato City",
         creditUrl: "https://visit-minato-city.tokyo/en/articles/408",
@@ -207,7 +207,7 @@ const eras: Era[] = [
         summary: "TTL 测光让传感器通过拍摄镜头读取光线，电子系统开始自动联动光圈与快门。相机第一次参与“决定”如何曝光。",
         shift: "复杂操作被隐藏，拍摄者可以把注意力重新放回瞬间。",
         tech: ["TTL 测光", "自动曝光", "机电联动"],
-        image: "timeline/topcon-re-super.jpg",
+        image: "timeline/topcon-re-super.webp",
         imageAlt: "1963 年 Topcon RE Super 单反相机，银黑机身配 Auto-Topcor 镜头",
         credit: "Wikimedia Commons · Topcon RE Super",
         creditUrl: "https://commons.wikimedia.org/wiki/File:Topcon_RE-Super.jpg",
@@ -232,7 +232,7 @@ const eras: Era[] = [
         summary: "CCD 最初被设想为半导体存储器，很快显示出成像能力。像素阵列逐级转移电荷，让光的强弱可以被精确读出。",
         shift: "感光材料从一次性的化学介质，变成可重复使用的电子芯片。",
         tech: ["像素阵列", "电荷耦合", "电子读出"],
-        image: "timeline/ccd.jpg",
+        image: "timeline/ccd.webp",
         imageAlt: "贝尔实验室研究者博伊尔与史密斯展示早期 CCD 摄像系统和监视器",
         credit: "Computer History Museum · Bell Labs CCD",
         creditUrl: "https://www.computerhistory.org/revolution/memory-storage/8/263/1117",
@@ -246,7 +246,7 @@ const eras: Era[] = [
         summary: "萨松用 Fairchild CCD、电影镜头、数模转换器与磁带机拼出原型。它证明照片可以完全脱离胶片，被捕获、存储并在屏幕上重现。",
         shift: "相机的核心从精密化学工业，转向半导体与计算机工业。",
         tech: ["100×100 像素", "数字存储", "磁带记录"],
-        image: "timeline/first-digital.jpg",
+        image: "timeline/first-digital.webp",
         imageAlt: "史蒂文·萨松与柯达首台数码相机原型，机身外露电路和蓝色镜头筒",
         credit: "Great Big Photography World · Sasson prototype",
         creditUrl: "https://greatbigphotographyworld.com/history-of-photography/",
@@ -260,7 +260,7 @@ const eras: Era[] = [
         summary: "柯达把 1.3MP CCD 装入 Nikon F3 机身，并连接独立存储单元。笨重昂贵，却让新闻机构首次绕过胶片冲洗直接获得数字文件。",
         shift: "“拍完立刻传稿”开始比画质与成本更有价值。",
         tech: ["1.3MP CCD", "硬盘存储", "数字工作流"],
-        image: "timeline/kodak-dcs100.jpg",
+        image: "timeline/kodak-dcs100.webp",
         imageAlt: "Kodak DCS 100 数码相机系统，由 Nikon F3 改装机身与肩背式数字存储单元组成",
         credit: "John Nuttall / Wikimedia Commons · Kodak DCS 100",
         creditUrl: "https://commons.wikimedia.org/wiki/File:Early_digital!.jpg",
@@ -285,7 +285,7 @@ const eras: Era[] = [
         summary: "约 11 万像素的内置相机并不追求专业画质，它真正改变的是链路：拍摄、查看、传输与社交发生在同一个口袋设备中。",
         shift: "相机从独立产品变成通信设备的一个功能，图像数量开始爆炸。",
         tech: ["CMOS 模组", "彩色屏幕", "移动传输"],
-        image: "timeline/sharp-jsh04.jpg",
+        image: "timeline/sharp-jsh04.webp",
         imageAlt: "白色 Sharp J-SH04 照相手机实物，正面可见小型彩色屏幕、数字键盘与外置天线",
         credit: "Extinct Media Museum Tokyo · Sharp J-SH04",
         creditUrl: "https://extinct-media-museum.blog.jp/archives/21524593.html",
@@ -299,7 +299,7 @@ const eras: Era[] = [
         summary: "Micro Four Thirds 取消反光镜与光学取景通道，以实时传感器画面完成取景和对焦。机身更短、更轻，也为视频与高速连拍打开空间。",
         shift: "镜头仍然重要，但传感器读出与电子取景开始重写相机结构。",
         tech: ["无反光镜", "电子取景器", "短法兰距"],
-        image: "timeline/lumix-g1.jpg",
+        image: "timeline/lumix-g1.webp",
         imageAlt: "Panasonic Lumix DMC-G1 无反相机与两支 Micro Four Thirds 镜头实物",
         credit: "Brett Jordan / Wikimedia Commons · Lumix G1",
         creditUrl: "https://commons.wikimedia.org/wiki/File:Panasonic_Lumix_DMC-G1.jpg",
@@ -313,7 +313,7 @@ const eras: Era[] = [
         summary: "手机在按下快门前后缓存多帧短曝光，再对齐、降噪与融合。小型传感器用计算换取动态范围、夜景与细节。",
         shift: "摄影结果不再等同于某一个瞬间的曝光，而是多帧信息的推断。",
         tech: ["多帧融合", "计算 HDR", "语义处理"],
-        image: "timeline/hdr-plus.jpg",
+        image: "timeline/hdr-plus.webp",
         imageAlt: "Google Pixel HDR+ 官方样张：夕阳直射海岸悬崖，同时保留天空高光与前景暗部细节",
         credit: "Google Research · HDR+ with Bracketing",
         creditUrl: "https://research.google/blog/hdr-with-bracketing-on-pixel-phones/",
@@ -327,7 +327,7 @@ const eras: Era[] = [
         summary: "堆栈式 CMOS 提高读出速度，多摄像头协同不同焦段，神经网络参与去噪、对焦、景深与色彩。现代相机已经是一台专用视觉计算机。",
         shift: "决定画面的不再只有镜头和传感器，还包括模型、数据与软件更新。",
         tech: ["堆栈 CMOS", "多摄融合", "端侧 AI"],
-        image: "timeline/stacked-cmos.jpg",
+        image: "timeline/stacked-cmos.webp",
         imageAlt: "安装在金属基板上的索尼三层堆栈式手机 CMOS 传感器实物近照",
         credit: "CineD · Sony stacked smartphone sensor",
         creditUrl: "https://www.cined.com/sony-develops-super-slow-motion-sensor-for-smartphones/",
@@ -424,6 +424,16 @@ export default function Home() {
         <span>{activeEraData.number}</span>
         <b>{activeEraData.title}</b>
       </aside>
+      <a
+        className={`back-to-top ${scrollProgress > 0.08 ? "visible" : ""}`}
+        href="#top"
+        aria-label="回到页面顶部"
+        aria-hidden={scrollProgress <= 0.08}
+        tabIndex={scrollProgress > 0.08 ? 0 : -1}
+      >
+        <span aria-hidden="true">↑</span>
+        <small>TOP</small>
+      </a>
       <header className="site-header">
         <a className="brand" href="#top" aria-label="光影机械首页">
           <span className="brand-mark" aria-hidden="true"><i /></span>
